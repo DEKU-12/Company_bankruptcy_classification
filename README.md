@@ -1,6 +1,4 @@
 
----
- # Company_bankruptcy_classification — `README.md`
 
 ```md
 # Company Bankruptcy Classification
